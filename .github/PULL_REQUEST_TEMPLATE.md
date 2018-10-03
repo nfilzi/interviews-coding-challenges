@@ -1,6 +1,6 @@
 ---
-name: PR structure checks
-about: How to open up a PR
+name: Structure checks
+about: How to open up a good PR
 
 ---
 
